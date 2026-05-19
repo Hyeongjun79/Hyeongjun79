@@ -6,8 +6,7 @@
 
 ## 🙋 About Me
 
-- 🌱 현재 **React** 를 공부하고 있어요
-- 🤝 팀 프로젝트 협업을 목표로 Git & GitHub를 익히는 중이에요
+- IBM Cloud Native Dev base AI agent 4기 
 - 🛒 쇼핑몰 프로젝트를 진행하며 실전 경험을 쌓고 있어요
 - 📚 매일 조금씩 성장 중입니다
 
