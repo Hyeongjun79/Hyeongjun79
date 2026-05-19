@@ -1,16 +1,42 @@
-## Hi there 👋
+# 안녕하세요! 👋
 
-<!--
-**Hyeongjun79/Hyeongjun79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+프론트엔드 개발을 공부하고 있는 AKI입니다.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🙋 About Me
+
+- 🌱 현재 **React** 를 공부하고 있어요
+- 🤝 팀 프로젝트 협업을 목표로 Git & GitHub를 익히는 중이에요
+- 🛒 쇼핑몰 프로젝트를 진행하며 실전 경험을 쌓고 있어요
+- 📚 매일 조금씩 성장 중입니다
+
+---
+
+## 🛠️ Tech Stack
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+
+---
+
+## 📌 Projects
+
+### 🛍️ Mall Project
+> React 기반 쇼핑몰 프로젝트
+- Google OAuth 로그인 구현
+- 프론트엔드 전반 개발
+
+---
+
+## 📈 GitHub Stats
+
+![AKI's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyeongjun79&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Contact
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hello.git.GitHub@gmail.com)
