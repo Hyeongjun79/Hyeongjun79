@@ -31,12 +31,4 @@
 
 ---
 
-## 📈 GitHub Stats
 
-![AKI's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyeongjun79&show_icons=true&theme=tokyonight)
-
----
-
-## 📫 Contact
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hello.git.GitHub@gmail.com)
